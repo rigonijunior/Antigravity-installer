@@ -80,14 +80,14 @@ Here is everything the script does for you automatically:
           │
           ▼
    ┌──────────────┐
-   │  Move files   │──▶  /opt/antigravity
-   │  to /opt      │     /opt/antigravity-ide
+   │  Move files  │──▶  /opt/antigravity
+   │  to /opt     │     /opt/antigravity-ide
    └──────┬───────┘
           │
           ▼
    ┌──────────────┐
-   │  Fix sandbox  │──▶  chmod 4755 chrome-sandbox
-   │  permissions  │     (SUID root for Electron)
+   │  Fix sandbox │──▶  chmod 4755 chrome-sandbox
+   │  permissions │     (SUID root for Electron)
    └──────┬───────┘
           │
           ▼
