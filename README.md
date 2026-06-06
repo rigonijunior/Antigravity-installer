@@ -406,11 +406,11 @@ The process is **identical for both first-time installation and updates**. The s
  │          ▼                                                │
  │  2. Script resolves the source                            │
  │     ┌─────────────┐     ┌──────────────┐                  │
- │     │ URL?         │────▶│ Download to  │                  │
- │     │ wget / curl  │     │ /tmp/...     │                  │
+ │     │ URL?        │────▶│ Download to  │                  │
+ │     │ wget / curl │     │ /tmp/...     │                  │
  │     └─────────────┘     └──────────────┘                  │
  │     ┌─────────────┐                                       │
- │     │ Local path?  │────▶ Use directly                    │
+ │     │ Local path? │────▶ Use directly                    │
  │     └─────────────┘                                       │
  │          │                                                │
  │          ▼                                                │
