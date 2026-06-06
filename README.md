@@ -410,7 +410,7 @@ The process is **identical for both first-time installation and updates**. The s
  │     │ wget / curl │     │ /tmp/...     │                  │
  │     └─────────────┘     └──────────────┘                  │
  │     ┌─────────────┐                                       │
- │     │ Local path? │────▶ Use directly                    │
+ │     │ Local path? │────▶ Use directly                     │
  │     └─────────────┘                                       │
  │          │                                                │
  │          ▼                                                │
