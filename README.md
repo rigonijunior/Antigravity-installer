@@ -40,7 +40,7 @@ The script supports **multi-language menus** and two modes of operation:
 
 ```
 ┌───────────────────────────────────────────────────┐
-│   Select Language / Selecione o Idioma           │
+│   Select Language / Selecione o Idioma            │
 │                                                   │
 │   1) English     2) Português                     │
 │   3) Italiano    4) Español                       │
