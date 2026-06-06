@@ -73,10 +73,10 @@ Here is everything the script does for you automatically:
    └──────┬───────┘
           │
           ▼
-   ┌──────────────┐     ┌──────────────────┐
+   ┌───────────────┐     ┌─────────────────────────┐
    │  Backup old   │────▶│  /opt/X  →  /opt/X.bak  │
-   │  installation │     └──────────────────┘
-   └──────┬───────┘
+   │  installation │     └─────────────────────────┘
+   └──────┬────────┘
           │
           ▼
    ┌──────────────┐
@@ -104,8 +104,8 @@ Here is everything the script does for you automatically:
           │
           ▼
    ┌──────────────┐
-   │  Update GTK   │──▶  Icons & shortcuts visible
-   │  caches       │     immediately
+   │  Update GTK  │──▶  Icons & shortcuts visible
+   │  caches      │     immediately
    └──────────────┘
 ```
 
