@@ -68,8 +68,8 @@ Here is everything the script does for you automatically:
           │
           ▼
    ┌──────────────┐
-   │  Extract the  │
-   │   tarball     │
+   │  Extract the │
+   │   tarball    │
    └──────┬───────┘
           │
           ▼
@@ -92,14 +92,14 @@ Here is everything the script does for you automatically:
           │
           ▼
    ┌──────────────┐
-   │  Extract &    │──▶  ~/.local/share/icons/
-   │  install icon │
+   │  Extract &   │──▶  ~/.local/share/icons/
+   │  install icon│
    └──────┬───────┘
           │
           ▼
    ┌──────────────┐
-   │  Create       │──▶  ~/.local/share/applications/
-   │  .desktop     │     (app appears in your launcher)
+   │  Create      │──▶  ~/.local/share/applications/
+   │  .desktop    │     (app appears in your launcher)
    └──────┬───────┘
           │
           ▼
